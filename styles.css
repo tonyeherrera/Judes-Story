@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(1, 5, 26);
+
+}
+#title{
+    color: rgb(202, 202, 207);
+    font-size: 500%;
+    font-style:oblique;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    
+}
+#dynamicHTML{
+    color: white;
+    text-align: center;
+    align-items: center;
+    background-color:rgba(54, 103, 145, 0.192);
+    margin: 15%;
+    border-style:groove;
+    border-color:rgb(7, 70, 126)
+    
+}
+
